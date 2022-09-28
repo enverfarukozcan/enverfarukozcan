@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Hello, I am Enver](https://user-images.githubusercontent.com/34477330/192884881-9c21482f-5a3a-4d28-85f3-f2536d159bbb.png)
 
 <!--
 **enverfarukozcan/enverfarukozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
