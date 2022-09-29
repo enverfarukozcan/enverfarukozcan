@@ -12,6 +12,16 @@
   - Part Time Software Engineer | 02.2020 - 03.2021
     - My squad was software infrastructure.
     - Here I experienced C# and .NET technologies and I did maintenance and updates on existing projects.
+
+## 📖 EDUCATION
+- UNIVERSITY OF BASEL | MASTER'S DEGREE
+  - Major in Machine Intelligence | 09.2022 - Now
+    - I started my master's degree at University of Basel. 
+- ISTANBUL UNIVERSITY | BACHELOR DEGREE
+  - English Language Proficiency | 09.2016 - 09.2017
+  - Computer Engineering | 09.2017 - 08.2021
+    - My junior project is book comment website using JSF.
+    - Senior project is detect same content headlines by document similarity methods using R programming language.
 <!--
 **enverfarukozcan/enverfarukozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
