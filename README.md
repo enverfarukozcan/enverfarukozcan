@@ -2,19 +2,16 @@
 ## 💼 EXPERIENCES
 - FIBABANKA | ISTANBUL-TURKEY
   - Junior Software Engineer | 08.2021 - Now
-    After my internship, I joined CRM techonologies squad as a Junior Software Engineer. 
-    I took responsibility for the elimination of Fortify and OWASP vulnerabilities in our Spring projects. 
-    I am familiar with UNICA and EVAM tools.
+    - After my internship, I joined CRM techonologies squad as a Junior Software Engineer. 
+    - I took responsibility for the elimination of Fortify and OWASP vulnerabilities in our Spring projects. 
+    - I am familiar with UNICA and EVAM tools.
   - Intern Software Engineer | 03.2021 - 08.2021
-    My squad was CRM technologies.
-    When i joined the squat they work on CRM360 project.And they use ReactJS for frontend. I have been learning ReactJS to take responsibility and      contribute to the squad.
+    - My squad was CRM technologies.
+    - When i joined the squat they work on CRM360 project.And they use ReactJS for frontend. I have been learning ReactJS to take responsibility and      contribute to the squad.
 - ING TURKEY | ISTANBUL-TURKEY
   - Part Time Software Engineer | 02.2020 - 03.2021
-    My squad was software infrastructure.
-    Here I experienced C# and .NET technologies and I did maintenance and updates on existing projects.
-     
-- 🔭 I’m currently learning on
-  - Three.js
+    - My squad was software infrastructure.
+    - Here I experienced C# and .NET technologies and I did maintenance and updates on existing projects.
 <!--
 **enverfarukozcan/enverfarukozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
